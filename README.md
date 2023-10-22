@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **React and its ecosystem**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript,React**
 
 - 📫 How to reach me **nvishnu1995@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1I81KhfLQJuXxWes6g9bTBTtNqEmGNSrk/view?google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D89b39cf68816bfdc:TM%3D1679116806:C%3Dr:IP%3D2405:201:402b:28ed:78aa:4ea4:7730:2c7b-:S%3DEQJfO9TesyIsbGSQCxNodSk%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DSat,+18-Mar-2023+08:20:06+GMT
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nair vishnu s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nair vishnu s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nair-vishnu-s-81a678193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nair vishnu s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vishnu_fw12_015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishnu_fw12_015" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nvishnu1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nvishnu1995" height="30" width="40" /></a>
 </p>
