@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu Nair</h1>
-<h3 align="center">A passionate frontend developer from India. Currently learning the beautiful React library and its ecosystem</h3>
+<h3 align="center">A passionate software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishcoder63&label=Profile%20views&color=0e75b6&style=flat" alt="vishcoder63" /> </p>
 
-- 🌱 I’m currently learning **React and its ecosystem**
+- 🌱 I’m currently learning **Java and its Ecosystem**
 
 - 💬 Ask me about **HTML,CSS,Javascript,React**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nair-vishnu-s-81a678193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nair vishnu s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishnu-s-81a678193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nair vishnu s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vishnu_fw12_015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishnu_fw12_015" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nvishnu1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nvishnu1995" height="30" width="40" /></a>
 </p>
